@@ -454,7 +454,7 @@ echo -e "$installit"
 read install
 	if [[ $install = Y || $install = y ]] ; then	
 # DROP everything else and Log it
-$iptables -A INPUT -j LOG
+#$iptables -A INPUT -j LOG
 $iptables -A INPUT -j DROP
 else
 		echo -e "\e[32m[-]If You Say So. Another Time Then\e[0m"
