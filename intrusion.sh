@@ -138,8 +138,6 @@ else
 	echo "curl is installed"
 	sleep 1
 fi
-
-installyamas
 ### End GitHub
 ### Install GitHub
 if [ ! -e "/usr/bin/yamas" ];then
