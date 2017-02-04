@@ -29,7 +29,7 @@ user2="Systemback" #This User Will Have Full 100% Access
 hashkey="SHA256" #Change This To Prefered
 
 #SSH Config ( * = ALL)
-sship="195.189.227.74" #The IP Your Server Will Listen For SSH 
+sship="123.456.789.012" #The IP Your Server Will Listen For SSH 
 sshd="52529"  #The Port You Want SSH To Use
 permroot="yes" #Permit root logins (yes/no)
 
