@@ -1580,7 +1580,7 @@ case $menusel in
 		clear ;;
 
 	"Extras")
-		nexttime
+		extras6
 		pause
 		clear ;;
 
