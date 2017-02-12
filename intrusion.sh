@@ -55,7 +55,7 @@ subnet2="66.180.193.219"
 ####################################################
 #           DO NOT TOUCH BELOW HERE                #
 ####################################################
-version="v1.5.8"
+version="v1.6"
 DEFAULT_ROUTE=$(ip route show default | awk '/default/ {print $3}')
 IFACE=$(ip route show | awk '(NR == 2) {print $3}')
 myipad=$(curl -s checkip.dyndns.org | sed -e 's/.*Current IP Address: //' -e 's/<.*$//')
