@@ -1,4 +1,4 @@
-lot has changed since pre-release V1.0.1
+lot has changed since pre-release V1.0
 
 lots of people have put input into what they would like to 
 see in this file. mind you i have picked and chose what i
@@ -11,6 +11,7 @@ Added LionSec's xerosploit installer
 Added changeable Variables W/ Easy changing option in menu
 Added BlackList IPTables section
 Added Extras Section
+Sorting Code To Make For Easier Issue Tracking
 
 TODO:
 Add IPv6 Supporting Tables
