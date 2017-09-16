@@ -151,7 +151,7 @@ $changelog"
 		read update
 		if [[ $update = Y || $update = y ]];then
 			echo "[+] Updating script..."
-			wget -q http://Node1.H4CK3D.US/scripts/intrusion.sh -O $0
+			wget -q https://raw.githubusercontent.com/JeSTeRFLA/IntrusionScript/master/intrusion.sh -O $0
 			chmod +x $0
 			echo "[-] Script updated !"
 			if [[ $0 != '/usr/bin/intrusion' && $ask_for_install = 'y' ]];then
