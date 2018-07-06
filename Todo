@@ -1,6 +1,6 @@
 Extend Ubuntu branch (include 16.10 and maybe add 17.4?)
-Add a debian branch (thinking Debian 8 and 9 would be good)
+Adding a debian branch preparing for buster (Deb 10)
 Add IPv6 IPTables (Major TODO ASAP)
 Add a easy ens* to eth0 change threw grub?
 Add fail2ban and denyhosts ddos ip packet deny?
-Add ? Email (JeSTeR@H4CK3D.US SUBJECT: GITHUB intrusion Req.) to request programs or things to add 
+Add ? Email (JeSTeR@H4CK3D.US SUBJECT: GITHUB intrusion Req.) to request programs or things to add
